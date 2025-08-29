@@ -10,7 +10,7 @@
 
 **A simple, visually appealing webpage.**
 
-[Live Demo](https://demo-link.com) <!-- TODO: Add live demo link --> |
+[Live Demo](https://demo-link.com) <!-- TODO: Add live demo link --> 
 
 </div>
 
@@ -28,7 +28,7 @@ This project is a static webpage built using HTML and CSS. It showcases basic we
 
 ## 🖥️ Screenshots
 
-![Screenshot 1](path-to-screenshot) <!-- TODO: Add actual screenshots -->
+<img src="img/main.png" alt="Banner">
 
 
 
