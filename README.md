@@ -10,7 +10,7 @@
 
 **A simple, visually appealing webpage.**
 
-[Live Demo](https://demo-link.com) <!-- TODO: Add live demo link --> 
+<a href="https://adveture.vercel.app/" targte="_blank">Live Link</a>
 
 </div>
 
